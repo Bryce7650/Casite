@@ -29,21 +29,28 @@
             border-radius: 10px; 
             box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2); 
             transition: background-color 0.3s ease, transform 0.2s ease;
+            width: 200px; /* New: Fixed width for all buttons */
         }
         .button:hover {
             background-color: #0056b3; 
             transform: scale(1.05);
         }
+        .credits-button {
+            background-color: #3498db; /* New: Lighter color for credits button */
+            margin-top: 25px; /* New: Adds space above the credits button */
+        }
     </style>
 </head>
 <body>
-    
+
+    <h1>Casite</h1>
+
     <a href="Minecraft/Game.html"><button class="button">Minecraft</button></a>
     <a href="Slime_Ranchers/Game.html"><button class="button">Slime Ranchers</button></a>
     <a href="teti/index.html"><button class="button">Teti</button></a>
     <a href="Tiny_Fishing/index.html"><button class="button">Tiny Fishing</button></a>
     <a href="Bitlife/index.html"><button class="button">Bitlife</button></a>
-    <a href="credits.html"><button class="button">Credits</button></a>
+    <a href="credits.html"><button class="button credits-button">Credits</button></a>
 
 </body>
 </html>
