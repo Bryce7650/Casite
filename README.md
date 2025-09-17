@@ -1,5 +1,1 @@
-![External Image](https://i.pinimg.com/736x/4d/db/0c/4ddb0c5118a6dd9739f9d1a039c4583f.jpg)
-
-
-
-Full credit to the game developers, Im just hosting these on my site
+This is just a simple game website i've been working on, Everyones games hosted on here is credited and if anyone wants their game to be removed please reach out to me!
